@@ -4,4 +4,4 @@
 
 2. [Prototypal inheritance](https://dev.to/kishorliv/prototypal-inheritance-5g3i)
 
-3. [Prototypal inheritance](https://dev.to/kishorliv/coffee-and-null-1pn2)
+3. [Coffee and null](https://dev.to/kishorliv/coffee-and-null-1pn2)
